@@ -1,0 +1,35 @@
+[2022-07-06T18:20:38.544] [ERROR] fileError - se Genero el siguiente error en el controller cart / entrada buyCart TypeError: Cannot read properties of undefined (reading 'getById')
+[2022-07-06T18:35:08.656] [ERROR] fileError - se Genero el siguiente error en el controller cart / entrada buyCart SyntaxError: Unexpected token o in JSON at position 1
+[2022-07-06T18:38:13.650] [ERROR] fileError - se Genero el siguiente error en el controller cart / entrada buyCart SyntaxError: Unexpected token _ in JSON at position 4
+[2022-07-06T18:38:57.991] [ERROR] fileError - se Genero el siguiente error en el controller cart / entrada buyCart SyntaxError: Unexpected token _ in JSON at position 4
+[2022-07-10T17:48:44.841] [ERROR] fileError - se Genero el siguiente error en el container productos / entrada getById CastError: Cast to ObjectId failed for value "62c552052a3adaf650f4034b0" (type string) at path "_id" for model "products"
+[2022-07-10T17:48:44.843] [ERROR] fileError - se Genero el siguiente error en el controller productos / entrada listProdbyId TypeError: Cannot read properties of undefined (reading 'message')
+[2022-07-10T17:49:59.492] [ERROR] fileError - se Genero el siguiente error en el container productos / entrada getById CastError: Cast to ObjectId failed for value "62c552052a3adaf650f403b01" (type string) at path "_id" for model "products"
+[2022-07-10T17:49:59.494] [ERROR] fileError - se Genero el siguiente error en el controller productos / entrada listProdbyId TypeError: Cannot read properties of undefined (reading 'message')
+[2022-07-10T17:50:45.626] [ERROR] fileError - se Genero el siguiente error en el container productos / entrada getById CastError: Cast to ObjectId failed for value "62c552052a3adaf650f403b01" (type string) at path "_id" for model "products"
+[2022-07-10T17:50:45.628] [ERROR] fileError - se Genero el siguiente error en el controller productos / entrada listProdbyId TypeError: Cannot read properties of undefined (reading 'message')
+[2022-07-10T17:51:30.402] [ERROR] fileError - se Genero el siguiente error en el container productos / entrada getById CastError: Cast to ObjectId failed for value "62c552052a3adaf650f403b01" (type string) at path "_id" for model "products"
+[2022-07-10T17:51:30.405] [ERROR] fileError - se Genero el siguiente error en el controller productos / entrada listProdbyId TypeError: Cannot read properties of undefined (reading 'message')
+[2022-07-10T17:51:35.420] [ERROR] fileError - se Genero el siguiente error en el container productos / entrada getById CastError: Cast to ObjectId failed for value "62c552052a3adaf650f403b01" (type string) at path "_id" for model "products"
+[2022-07-10T17:51:35.420] [ERROR] fileError - se Genero el siguiente error en el controller productos / entrada listProdbyId TypeError: Cannot read properties of undefined (reading 'message')
+[2022-07-10T18:09:06.834] [ERROR] fileError - se Genero el siguiente error en el container productos / entrada getById CastError: Cast to ObjectId failed for value "62c552052a3adaf650f403b01" (type string) at path "_id" for model "products"
+[2022-07-10T18:09:06.837] [ERROR] fileError - se Genero el siguiente error en el controller productos / entrada listProdbyId TypeError: Cannot read properties of undefined (reading 'message')
+[2022-07-10T18:09:18.455] [ERROR] fileError - se Genero el siguiente error en el container productos / entrada getById CastError: Cast to ObjectId failed for value "62c552052a3adaf650f403b01" (type string) at path "_id" for model "products"
+[2022-07-10T18:09:18.455] [ERROR] fileError - se Genero el siguiente error en el controller productos / entrada listProdbyId TypeError: Cannot read properties of undefined (reading 'message')
+[2022-07-10T18:11:37.687] [ERROR] fileError - se Genero el siguiente error en el container productos / entrada getById CastError: Cast to ObjectId failed for value "62c552052a3adaf650f403b01" (type string) at path "_id" for model "products"
+[2022-07-10T18:11:37.689] [ERROR] fileError - se Genero el siguiente error en el controller productos / entrada listProdbyId TypeError: Cannot read properties of undefined (reading 'message')
+[2022-07-10T18:12:27.729] [ERROR] fileError - se Genero el siguiente error en el container productos / entrada getById CastError: Cast to ObjectId failed for value "62c552052a3adaf650f403b01" (type string) at path "_id" for model "products"
+[2022-07-10T18:12:27.731] [ERROR] fileError - se Genero el siguiente error en el controller productos / entrada listProdbyId TypeError: Cannot read properties of undefined (reading 'message')
+[2022-07-10T18:13:01.916] [ERROR] fileError - se Genero el siguiente error en el container productos / entrada getById CastError: Cast to ObjectId failed for value "62c552052a3adaf650f403b02" (type string) at path "_id" for model "products"
+[2022-07-10T18:13:01.916] [ERROR] fileError - se Genero el siguiente error en el controller productos / entrada listProdbyId TypeError: Cannot read properties of undefined (reading 'message')
+[2022-07-10T18:13:27.226] [ERROR] fileError - se Genero el siguiente error en el container productos / entrada getById CastError: Cast to ObjectId failed for value "62c552052a3adaf6f403b2" (type string) at path "_id" for model "products"
+[2022-07-10T18:13:27.227] [ERROR] fileError - se Genero el siguiente error en el controller productos / entrada listProdbyId TypeError: Cannot read properties of undefined (reading 'message')
+[2022-07-11T10:29:41.257] [ERROR] fileError - se Genero el siguiente error en el controller productos / entrada listProdbyId TypeError: Cannot read properties of undefined (reading 'valid')
+[2022-07-11T10:31:01.592] [ERROR] fileError - se Genero el siguiente error en el controller productos / entrada listProdbyId TypeError: Cannot read properties of undefined (reading 'valid')
+[2022-07-11T17:59:33.225] [ERROR] fileError - se Genero el siguiente error en el controller cart / entrada listProdbyId Error: Cannot read properties of undefined (reading 'length')
+[2022-07-11T17:59:37.791] [ERROR] fileError - se Genero el siguiente error en el controller cart / entrada listProdbyId Error: Cannot read properties of undefined (reading 'length')
+[2022-07-11T17:59:37.792] [ERROR] fileError - se Genero el siguiente error en el container Carrito / entrada getById CastError: Cast to ObjectId failed for value "6254cefa0c204769e5650c643" (type string) at path "_id" for model "cart"
+[2022-07-11T17:59:37.793] [ERROR] fileError - se Genero el siguiente error en el controller cart / entrada getById undefined
+[2022-07-11T18:00:47.456] [ERROR] fileError - se Genero el siguiente error en el controller cart / entrada listProdbyId Error: Cannot read properties of undefined (reading 'length')
+[2022-07-11T18:01:15.894] [ERROR] fileError - se Genero el siguiente error en el controller cart / entrada listProdbyId Error: Cannot read properties of undefined (reading 'length')
+[2022-07-11T18:02:05.086] [ERROR] fileError - se Genero el siguiente error en el controller cart / entrada listProdbyId Error: Cannot read properties of undefined (reading 'length')
